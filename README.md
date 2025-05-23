@@ -1,1 +1,1 @@
-# Steam-Playtime-Tracker
+🕹️ Steam Playtime Tracker
