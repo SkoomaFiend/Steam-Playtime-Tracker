@@ -16,6 +16,15 @@ Shell scripts to track and summarize playtime for any game, including non-Steam 
   Contains each games total playtime as was well as the total for all games.
 
 
+Game Logs Sample output (eg. ~/.local/share/game-playtime/Dark Souls III.log) : 
+
+    [Fri May 23 03:13:28 PM EDT 2025] Ended Dark Souls 3. Duration: 0h 0m 7s
+    [Fri May 23 15:14:38 EDT 2025] Ended Dark Souls 3. Duration: 0h 0m 13s
+    [Fri May 23 15:16:02 EDT 2025] Ended Dark Souls 3. Duration: 0h 0m 48s
+
+
+    
+
 # 🔧 Setup
 
 Place both scripts somewhere executable, e.g.:
