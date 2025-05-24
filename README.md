@@ -76,4 +76,4 @@ Put sum_playtime.sh into your global scripts directory or add an alias to run it
 
 Add alias to easily show game playtime log : 
 
-    bat ~/.local/share/game-playtime/summary.log
+    ~/scripts/sum_playtime.sh && bat ~/.local/share/game-playtime/summary.log
